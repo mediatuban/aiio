@@ -4,7 +4,15 @@ di halaman ini kita akan melihat berbagai macam prompt list yang bisa kita gunak
 
 ## Daftar Fokus AI
 
-GEMINI
-CHATGPT
-MIDJOURNEY
-DALLE-2
+- GEMINI
+- CHATGPT
+- MIDJOURNEY
+- DALLE-2
+
+## Promt Base
+
+- https://promptbase.com/free-prompts
+- https://promptlibrary.info/
+- https://prompteam.ai/blog/70-most-powerful-ai-prompt-examples-for-accurate-results
+- https://medium.com/@maximilian.vogel/the-chatgpt-list-of-lists-a-collection-of-1500-useful-mind-blowing-and-strange-use-cases-8b14c35eb
+- https://thatfomoisreal.com/ai-prompts-list/
