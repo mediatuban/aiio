@@ -4,10 +4,12 @@ di halaman ini kita akan melihat berbagai macam prompt list yang bisa kita gunak
 
 ## Daftar Fokus AI
 
-- GEMINI
-- CHATGPT
-- MIDJOURNEY
-- DALLE-2
+- [GEMINI](gemini/index.md)
+- FIREBASE STUDIO
+- [CHATGPT](chatgpt/index.md)
+- [MIDJOURNEY](midjourney/index.md)
+- [DALLE-2](dalle/index.md)
+- [VEO 3](veo3/index.md)
 
 ## Promt Base
 
